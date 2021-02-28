@@ -91,6 +91,7 @@
             <target>1.15</target>
             <release>15</release>
             <verbose>true</verbose>
+            <release>15</release>
           </configuration>
         </plugin>
         <plugin>
