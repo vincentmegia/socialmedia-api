@@ -12,3 +12,9 @@ PR test $ 6
 #8
 #9
 #10
+master build test # 1
+master build test # 2
+master build test # 3
+test # 4
+test $ 5
+test # 6
