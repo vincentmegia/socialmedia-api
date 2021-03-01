@@ -23,6 +23,6 @@ public class UserRepositoryTest {
     @Test
     public void testUpdateUserName() {
         var result = userRepository.updateUsername(1, "fake-username");
-        assertEquals(result, true);
+        assertEquals(result, 0);
     }
 }
