@@ -1,3 +1,4 @@
+#a
 build me
 build me again #2
 build me again #3
@@ -12,4 +13,13 @@ PR test $ 6
 #8
 #9
 #10
+<<<<<<< HEAD
 #11
+=======
+master build test # 1
+master build test # 2
+master build test # 3
+test # 4
+test $ 5
+test # 6
+>>>>>>> 2076e1ae6c9720965ef513c6428ea70b29d32a62
